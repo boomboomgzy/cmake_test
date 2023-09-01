@@ -1,4 +1,7 @@
 *
+!src
+!libsrc_*
+!include
 !*.c
 !*.cpp
 !*.cxx
